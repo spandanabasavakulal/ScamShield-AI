@@ -9,3 +9,6 @@ python-dotenv
 requests
 tldextract
 plotly
+wordcloud
+matplotlib
+seaborn
